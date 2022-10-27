@@ -1,12 +1,9 @@
-import './App.min.css';
-import Navbar from './components/Navbar';
-import Showcase from './components/Showcase';
+import './App.css';
 
 function App() {
   return (
     <>
-     <Navbar />
-     <Showcase />
+    
     </>
   );
 }
